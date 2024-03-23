@@ -1,0 +1,20 @@
+RateLimiter ve CORS
+RabbitMQ
+BackgroundService Worker
+GraphQL
+SignalR
+WebHook entegrasyonu
+History implementasyonu
+
+
+
+Redis
+ElasticSearch
+
+
+EntityFramework Core ExpressionGenerator
+
+Go dili ile mail servisi yazma
+
+------------------------------------------------------------
+Visual Studio Community Extensibility
